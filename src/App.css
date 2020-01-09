@@ -1,0 +1,36 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: #e8edf2;
+  color: #4a4a4a;
+}
+* {
+  box-sizing: border-box;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+.App-logo {
+  height: 2rem;
+  pointer-events: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.App-header {
+  padding: 2rem 0;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+}

@@ -1,0 +1,305 @@
+{
+    "funds": [
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA02UST-FUNDX"
+            },
+            "id": "FOUSA02UST-FUNDX",
+            "legalType": "FO",
+            "tradingSymbol": "FUNDX",
+            "name": "FundX Upgrader",
+            "investmentVehicleId": "FOUSA02UST",
+            "morningstarCategory": "Allocation--85%+ Equity",
+            "performanceBeforeSalesChargeYearToDate": 24.22,
+            "performanceBeforeSalesCharge1Year": 14.32,
+            "performanceBeforeSalesCharge3Year": 11.93
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA05ITI-UBPIX"
+            },
+            "id": "FOUSA05ITI-UBPIX",
+            "legalType": "FO",
+            "tradingSymbol": "UBPIX",
+            "name": "ProFunds UltraLatin America Inv",
+            "investmentVehicleId": "FOUSA05ITI",
+            "morningstarCategory": "Trading--Leveraged Equity",
+            "performanceBeforeSalesChargeYearToDate": -8.06,
+            "performanceBeforeSalesCharge1Year": -13.68,
+            "performanceBeforeSalesCharge3Year": 0.6
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA069TH-RCCTX"
+            },
+            "id": "FOUSA069TH-RCCTX",
+            "legalType": "FO",
+            "tradingSymbol": "RCCTX",
+            "name": "American Funds 2020 Trgt Date Retire R3",
+            "investmentVehicleId": "FOUSA069TH",
+            "morningstarCategory": "Target-Date 2020",
+            "performanceBeforeSalesChargeYearToDate": 12.75,
+            "performanceBeforeSalesCharge1Year": 9.62,
+            "performanceBeforeSalesCharge3Year": 7.23
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA069UH-RCITX"
+            },
+            "id": "FOUSA069UH-RCITX",
+            "legalType": "FO",
+            "tradingSymbol": "RCITX",
+            "name": "American Funds 2050 Trgt Date Retire R3",
+            "investmentVehicleId": "FOUSA069UH",
+            "morningstarCategory": "Target-Date 2050",
+            "performanceBeforeSalesChargeYearToDate": 20.49,
+            "performanceBeforeSalesCharge1Year": 13.27,
+            "performanceBeforeSalesCharge3Year": 11.63
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA0885N-BAUAX"
+            },
+            "id": "FOUSA0885N-BAUAX",
+            "legalType": "FO",
+            "tradingSymbol": "BAUAX",
+            "name": "Brown Advisory Sm-Cp Fundamental Val Adv",
+            "investmentVehicleId": "FOUSA0885N",
+            "morningstarCategory": "Small Blend",
+            "performanceBeforeSalesChargeYearToDate": 21.53,
+            "performanceBeforeSalesCharge1Year": 8.51,
+            "performanceBeforeSalesCharge3Year": 6.92
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA06KG5-DCPYX"
+            },
+            "id": "FOUSA06KG5-DCPYX",
+            "legalType": "FO",
+            "tradingSymbol": "DCPYX",
+            "name": "BNY Mellon Core Plus Fund Y",
+            "investmentVehicleId": "FOUSA06KG5",
+            "morningstarCategory": "Intermediate Core-Plus Bond",
+            "performanceBeforeSalesChargeYearToDate": 10.9,
+            "performanceBeforeSalesCharge1Year": 12.16,
+            "performanceBeforeSalesCharge3Year": 5.06
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F000002PJE-RBFGX"
+            },
+            "id": "F000002PJE-RBFGX",
+            "legalType": "FO",
+            "tradingSymbol": "RBFGX",
+            "name": "American Funds Bond Fund of Amer R6",
+            "investmentVehicleId": "F000002PJE",
+            "morningstarCategory": "Intermediate Core Bond",
+            "performanceBeforeSalesChargeYearToDate": 8.28,
+            "performanceBeforeSalesCharge1Year": 10.08,
+            "performanceBeforeSalesCharge3Year": 4.06
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F000002TH0-JLCRX"
+            },
+            "id": "F000002TH0-JLCRX",
+            "legalType": "FO",
+            "tradingSymbol": "JLCRX",
+            "name": "JHancock Fundamental Large Cap Core R1",
+            "investmentVehicleId": "F000002TH0",
+            "morningstarCategory": "Large Blend",
+            "performanceBeforeSalesChargeYearToDate": 30.75,
+            "performanceBeforeSalesCharge1Year": 18.2,
+            "performanceBeforeSalesCharge3Year": 11.15
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F0000045Y9-REKTX"
+            },
+            "id": "F0000045Y9-REKTX",
+            "legalType": "FO",
+            "tradingSymbol": "REKTX",
+            "name": "American Funds 2055 Trgt Date Retire R5",
+            "investmentVehicleId": "F0000045Y9",
+            "morningstarCategory": "Target-Date 2055",
+            "performanceBeforeSalesChargeYearToDate": 21.19,
+            "performanceBeforeSalesCharge1Year": 13.97,
+            "performanceBeforeSalesCharge3Year": 12.3
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F000005FHD-NAVFX"
+            },
+            "id": "F000005FHD-NAVFX",
+            "legalType": "FO",
+            "tradingSymbol": "NAVFX",
+            "name": "Sector Rotation Fund",
+            "investmentVehicleId": "F000005FHD",
+            "morningstarCategory": "Tactical Allocation",
+            "performanceBeforeSalesChargeYearToDate": 19.75,
+            "performanceBeforeSalesCharge1Year": 8.58,
+            "performanceBeforeSalesCharge3Year": 11.55
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000J8K4-EIVDX"
+            },
+            "id": "F00000J8K4-EIVDX",
+            "legalType": "FO",
+            "tradingSymbol": "EIVDX",
+            "name": "Wells Fargo Classic Value Fund Admin",
+            "investmentVehicleId": "F00000J8K4",
+            "morningstarCategory": "Large Blend",
+            "performanceBeforeSalesChargeYearToDate": 28.29,
+            "performanceBeforeSalesCharge1Year": 14.74,
+            "performanceBeforeSalesCharge3Year": 12.6
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FMUSA04AUW-BMPXX"
+            },
+            "id": "FMUSA04AUW-BMPXX",
+            "legalType": "FM",
+            "tradingSymbol": "BMPXX",
+            "name": "BlackRock Liquidity MuniFund Priv Cl",
+            "investmentVehicleId": "FMUSA04AUW",
+            "morningstarCategory": "Money Market-Tax-Free",
+            "performanceBeforeSalesChargeYearToDate": 0.81,
+            "performanceBeforeSalesCharge1Year": 0.9,
+            "performanceBeforeSalesCharge3Year": 0.6
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/FOUSA06LZU-BCHXX"
+            },
+            "id": "FOUSA06LZU-BCHXX",
+            "legalType": "FM",
+            "tradingSymbol": "BCHXX",
+            "name": "BlackRock Liquidity T-Fund Capital",
+            "investmentVehicleId": "FOUSA06LZU",
+            "morningstarCategory": "Money Market-Taxable",
+            "performanceBeforeSalesChargeYearToDate": 1.91,
+            "performanceBeforeSalesCharge1Year": 2.1,
+            "performanceBeforeSalesCharge3Year": null
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000NLZR-BLPEX"
+            },
+            "id": "F00000NLZR-BLPEX",
+            "legalType": "FO",
+            "tradingSymbol": "BLPEX",
+            "name": "American Funds Moderate Gr & Inc F-2",
+            "investmentVehicleId": "F00000NLZR",
+            "morningstarCategory": "Allocation--50% to 70% Equity",
+            "performanceBeforeSalesChargeYearToDate": 16.85,
+            "performanceBeforeSalesCharge1Year": 12.63,
+            "performanceBeforeSalesCharge3Year": 9.72
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000NM0F-RAICX"
+            },
+            "id": "F00000NM0F-RAICX",
+            "legalType": "FO",
+            "tradingSymbol": "RAICX",
+            "name": "American Funds Growth and Inc Port R3",
+            "investmentVehicleId": "F00000NM0F",
+            "morningstarCategory": "Allocation--70% to 85% Equity",
+            "performanceBeforeSalesChargeYearToDate": 18.15,
+            "performanceBeforeSalesCharge1Year": 11.93,
+            "performanceBeforeSalesCharge3Year": 10.03
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000NM0W-RGWAX"
+            },
+            "id": "F00000NM0W-RGWAX",
+            "legalType": "FO",
+            "tradingSymbol": "RGWAX",
+            "name": "American Funds Growth Portfolio R1",
+            "investmentVehicleId": "F00000NM0W",
+            "morningstarCategory": "Large Growth",
+            "performanceBeforeSalesChargeYearToDate": 22.22,
+            "performanceBeforeSalesCharge1Year": 13.16,
+            "performanceBeforeSalesCharge3Year": 12.3
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000QKUZ-CCETX"
+            },
+            "id": "F00000QKUZ-CCETX",
+            "legalType": "FO",
+            "tradingSymbol": "CCETX",
+            "name": "American Funds 2030 Trgt Date Retire C",
+            "investmentVehicleId": "F00000QKUZ",
+            "morningstarCategory": "Target-Date 2030",
+            "performanceBeforeSalesChargeYearToDate": 16.04,
+            "performanceBeforeSalesCharge1Year": 10.97,
+            "performanceBeforeSalesCharge3Year": 9.16
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000QKVJ-CCJTX"
+            },
+            "id": "F00000QKVJ-CCJTX",
+            "legalType": "FO",
+            "tradingSymbol": "CCJTX",
+            "name": "American Funds 2055 Trgt Date Retire C",
+            "investmentVehicleId": "F00000QKVJ",
+            "morningstarCategory": "Target-Date 2055",
+            "performanceBeforeSalesChargeYearToDate": 20.08,
+            "performanceBeforeSalesCharge1Year": 12.81,
+            "performanceBeforeSalesCharge3Year": 11.12
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000SJ4A-MFUFX"
+            },
+            "id": "F00000SJ4A-MFUFX",
+            "legalType": "FO",
+            "tradingSymbol": "MFUFX",
+            "name": "MassMutual Select Fundamental Value R4",
+            "investmentVehicleId": "F00000SJ4A",
+            "morningstarCategory": "Large Value",
+            "performanceBeforeSalesChargeYearToDate": 19.86,
+            "performanceBeforeSalesCharge1Year": 8.32,
+            "performanceBeforeSalesCharge3Year": 7.74
+        },
+        {
+            "link": {
+                "rel": "explore",
+                "href": "http://fundvisualizerapi:8080/fund-visualizer/api/funds/F00000PF44-QOPIX"
+            },
+            "id": "F00000PF44-QOPIX",
+            "legalType": "FO",
+            "tradingSymbol": "QOPIX",
+            "name": "Invesco Oppenheimer Fundamental Alts R6",
+            "investmentVehicleId": "F00000PF44",
+            "morningstarCategory": "Multialternative",
+            "performanceBeforeSalesChargeYearToDate": 4.68,
+            "performanceBeforeSalesCharge1Year": 1.22,
+            "performanceBeforeSalesCharge3Year": 1.75
+        }
+    ],
+    "numberOfFunds": 1400
+}
