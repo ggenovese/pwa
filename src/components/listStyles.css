@@ -10,7 +10,17 @@
     border-top: none;
     width: calc(100% - 100px);
     background-color: #fff;
+    z-index: 1;
 }
+
+@media (max-width: 480px) {
+    .list {
+        top: 50.5px;
+        left: 10px;
+        width: calc(100% - 20px);
+    }
+}
+
 .listItem {
     padding: 10px;
     color: #aaa;

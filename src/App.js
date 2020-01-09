@@ -7,25 +7,6 @@ import FundSearchInput from './components/FundSearchInput';
 import List from './components/List';
 import Fund from './components/Fund';
 
-const styles = {
-  searchContainer: {
-    width: '70%',
-    position: 'relative',
-    margin: '0 auto',
-    maxWidth: '600px',
-  },
-  fundContainer: {
-    width: '70%',
-    position: 'relative',
-    margin: '0 auto',
-    backgroundColor: '#fff',
-    padding: '25px 50px',
-    borderRadius: '5px',
-    marginTop: '50px',
-    maxWidth: '600px',
-  }
-}
-
 function App() {
   const [data, setData] = useState({});
   const [searchResults, setSearchResults] = useState([]);
@@ -65,7 +46,7 @@ function App() {
       </header>
       <div className="App-body">
         <Explore data={data}/>
-        <div style={styles.searchContainer}>
+        <div className="searchContainer">
           <FundSearchInput onChange={handleDataSearch}/>
           {searchResults.length > 0 && (
             <List items={searchResults} handleClick={handleCurrentFund}/>
@@ -73,7 +54,7 @@ function App() {
         </div>
         
         {currentFund && (
-          <div style={styles.fundContainer}>
+          <div className="fundContainer">
             <Fund fund={currentFund}/>
           </div>
         )}

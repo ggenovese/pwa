@@ -18,6 +18,11 @@ img {
   margin: 0 auto;
   display: block;
 }
+@media (max-width: 480px) {
+  .App-logo {
+    height: 1.5rem;
+  }
+}
 
 .App-header {
   padding: 2rem 0;
@@ -33,4 +38,35 @@ img {
   overflow: hidden;
   clip: rect(1px 1px 1px 1px);
   clip: rect(1px, 1px, 1px, 1px);
+}
+
+.searchContainer {
+  width: 70%;
+  position: relative;
+  margin: 0 auto;
+  max-width: 600px;
+}
+@media (max-width: 480px) {
+  .searchContainer {
+    width: 95%;
+  }
+}
+
+.fundContainer {
+  width: 70%;
+  position: relative;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 25px 50px;
+  border-radius: 5px;
+  margin-top: 50px;
+  max-width: 600px;
+}
+
+@media (max-width: 480px) {
+  .fundContainer {
+    width: 95%;
+    margin-top: 20px;
+    padding: 5px 20px 20px;
+  }
 }

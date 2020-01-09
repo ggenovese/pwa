@@ -1,14 +1,7 @@
 import React, {useEffect, useState} from 'react';
+import './exploreStyles.css';
 
 function Explore({data}) {
-  const styles = {
-    fontSize: '58px',
-    color: '#222',
-    marginTop: '50px',
-    marginBottom: '24px',
-    fontWeight: '300',
-    textAlign: 'center'
-  };
 
   const [count, setCount] = useState(0);
 
@@ -18,7 +11,7 @@ function Explore({data}) {
   }, [data])
 
   return (
-    <p style={styles}>
+    <p className="explore">
       Explore {count} funds
     </p>
   );
